@@ -93,7 +93,7 @@ $vh: 100vh;
         height: 10px
         border-radius: 10px
         margin-right: 5px
-        animation: .3s ease-in-out both live;
+        animation: .3s ease-in-out infinite live;
 
       &-soon
         display: flex
